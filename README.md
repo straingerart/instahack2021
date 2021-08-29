@@ -20,7 +20,7 @@ storage 400 MB
 [+] Easy for Beginners !
 
 # INSTALLATION [Termux] :
-``apt-get update -y
+apt-get update -y
 
 apt-get upgrade -y
 
@@ -42,7 +42,7 @@ cd instahack2021
 
 ls
 
-bash ig-hack2021.sh``
+bash ig-hack2021.sh
 
 
 
